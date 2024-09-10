@@ -119,12 +119,18 @@ flex-shrink: 0; */
   margin-top: 0px;
 }
 
+
+/* ************************* */
 /* main section styles */
+
 main{
   max-width: 1140;
   margin: 0 auto;
 }
+
+/* ************************* */
 /* about section styles */
+
 .about {
   padding: 130px;
   border-radius: 10px;
@@ -157,6 +163,10 @@ font-style: normal;
 font-weight: 700;
 line-height: 30px;
 }
+
+/* ************************* */
+/*  what i do  */
+
 #what-i-do-description{
   padding: 30px 150px;
   
@@ -194,4 +204,40 @@ line-height: normal;
 }
 .skill-img-style{
   padding: 30px 193px 30px 30px  ;
+}
+/* ************************* */
+/* A summary of My Resume */
+.the-summary-title{
+  text-align: center;
+  color:#181818;
+font-size: 35px;
+font-weight: 700;
+}
+
+.summary-container{
+  display: flex;
+  width: 50%;
+  
+}
+.summary-column{
+   
+}
+.resume-column-title{
+  color:#474747;
+  margin-left: 230px;
+font-size: 30px;
+font-weight: 700;
+}
+.summary-item{
+  margin-left: 230px;
+  margin-right: 71px;
+}
+.summary-item-title{
+
+}
+.summary-item-institute{
+
+}
+.summary-item-description{
+
 }
