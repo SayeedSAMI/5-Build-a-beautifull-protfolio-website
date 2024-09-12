@@ -265,8 +265,10 @@ footer {
 .footer-column {
   width: 50%;
 }
-.contuct-form {
+.social-links a{
+  margin-right: 25px;
 }
+
 .contuct-form input[type="text"],.contuct-form input[type="email"] ,
 textarea {
   display: block;
